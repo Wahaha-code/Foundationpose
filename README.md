@@ -10,18 +10,8 @@ Download all network weights from[here](https://cashkisi-my.sharepoint.com/:f:/g
 
 ### 1
 <video width="320" height="240" controls>
-  <source src="视频链接3.mp4" type="video/mp4">
+  <source src="assets/output.mp4" type="video/mp4">
   您的浏览器不支持 video 标签。
 </video>
 
-### 2
-<video width="320" height="240" controls>
-  <source src="视频链接3.mp4" type="video/mp4">
-  您的浏览器不支持 video 标签。
-</video>
 
-### 3
-<video width="320" height="240" controls>
-  <source src="视频链接3.mp4" type="video/mp4">
-  您的浏览器不支持 video 标签。
-</video>
