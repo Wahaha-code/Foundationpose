@@ -9,6 +9,6 @@ Download all network weights from[here](https://cashkisi-my.sharepoint.com/:f:/g
 ## Demo
 
 ### 1
-[![example](https://github.com/Wahaha-code/Foundationpose/blob/main/assets/output.mp4)]
+![AR Applications](assets/ezgif.com-video-to-gif-converter.gif)
 
 
