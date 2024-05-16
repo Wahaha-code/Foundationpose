@@ -1,0 +1,3 @@
+/home/guo/project/FoundationPose/mycpp/build/CMakeFiles/rebuild_cache.dir
+/home/guo/project/FoundationPose/mycpp/build/CMakeFiles/edit_cache.dir
+/home/guo/project/FoundationPose/mycpp/build/CMakeFiles/mycpp.dir
