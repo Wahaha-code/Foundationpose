@@ -27,3 +27,5 @@ docker exec -it foundationpose bash
 ```
 python online.py
 ```
+## License
+The code and data are released under the NVIDIA Source Code License. Copyright © 2024, NVIDIA Corporation. All rights reserved.
